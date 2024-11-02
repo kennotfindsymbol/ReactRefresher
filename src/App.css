@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.my-h2 {
+  color: blueviolet
+}
+
+.my-list li {
+  margin: 1px;
+  border: 1px solid #ccc;
+  padding: 1rem;
+  text-align: end;
+}
