@@ -44,6 +44,6 @@
 .my-list li {
   margin: 1px;
   border: 1px solid #ccc;
-  padding: 1rem;
+  padding: 0.5rem;
   text-align: end;
 }
