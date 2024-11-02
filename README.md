@@ -1,3 +1,20 @@
+# ReactRefresher
+
+### Motivation
+Built for someone (or myself) if they have not worked with React for a while. Not a framework tutorial.
+
+### Code and Concepts
+
+
+### Summary
+#### A JavaScript library for Building User Interfaces
+- Runs on **browser** not on server
+
+#### Declarative Approach
+- **Define** the result, **not the steps** that lead to the result
+- vs Imperative Approach (normal JS): define all the steps (add this element, add CSS class to this element, ...)
+- Define **components** and build UI with these components
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
