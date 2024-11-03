@@ -11,7 +11,7 @@ const MyList = (props) => {
         elements
       </li>
       <li>
-        styles in App.css are still applied but you create a MyList.css and add
+        styles in App.css are still applied but you can create a MyList.css and add
         styles there
       </li>
       <li>
